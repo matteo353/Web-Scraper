@@ -12,7 +12,7 @@ If you do not input a path, the script will prompt you to input one before proce
 
 ### 1. Python
 Python is a high level programming language that specializes in simplicity and readability. This script is written
-in Python, so you must have it downloaded on your machine to run it.
+in Python, so you must have it downloaded on your machine to run it
 
 #### Installation
 If you do not already have python, visit python.org and follow the installation instructions specific to your machine.
